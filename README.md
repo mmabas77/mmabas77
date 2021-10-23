@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI - Nano degree course from Udacity**
 
-- 📝 I regularly write articles on [https://mmabas77.blogspot.com/](https://mmabas77.blogspot.com/)
+- 📝 I regularly write articles on [https://blog.mmabas77.com/](https://blog.mmabas77.com/)
 
 - 💬 Ask me about **Desktop, Web, Android development or any CS-related field**
 
